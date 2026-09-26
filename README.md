@@ -97,4 +97,7 @@ CyberGuard/
 
 ## Screenshots
 
-_Add screenshots of each window in action here before submission._
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/a73e7436-0e23-42e5-a51e-4ca1a6a5918d" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/599c96ea-32d6-431d-9ae8-5c13d97dd176" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/295f9349-c46c-4275-9532-9699149e8afd" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/ddf238ca-ced7-4554-9284-79241cf38165" />
